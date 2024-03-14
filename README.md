@@ -1,5 +1,5 @@
 <div align="center">
-    <a href='https://www.realworldml.xyz/'><img src='./images/logo_2.png' width='350'></a>    
+    <a href='https://www.realworldml.net/'><img src='./images/logo_2.png' width='350'></a>    
 </div>
 
 <div align="center">
@@ -121,7 +121,7 @@ I am preparing a new hands-on tutorial where you will learn to buld a complete r
 **[➡️ Subscribe to The Real-World ML Newsletter](https://paulabartabajo.substack.com/)** to access exclusive discounts.
 
 <p align="center">
-  <a href='https://www.realworldml.xyz/'><img src='./images/logo_2.png' width='350'></a>
+  <a href='https://www.realworldml.net/'><img src='./images/logo_2.png' width='350'></a>
 </p>
 
 
